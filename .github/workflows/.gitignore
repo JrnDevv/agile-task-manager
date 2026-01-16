@@ -1,0 +1,24 @@
+# Dependências
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema operacional
+.DS_Store
+
+# Ambiente
+.env
+
+# Build e cache
+dist/
+coverage/
+
+# Arquivos de lock temporários
+package-lock.json
+*.lock
+
+# VS Code configs pessoais
+.vscode/
