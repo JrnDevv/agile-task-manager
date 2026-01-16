@@ -1,0 +1,16 @@
+{
+  "name": "projeto-agil-techflow",
+  "version": "1.0.0",
+  "description": "Sistema básico de gerenciamento de tarefas desenvolvido com Node.js e Express.",
+  "main": "index.js",
+  "scripts": {
+  "dev": "node agile-task-manager/src/app.js",
+  "test": "node agile-task-manager/tests/tasks.test.js"
+},
+  "keywords": [],
+  "author": "Gabriel Souza",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
